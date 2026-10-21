@@ -56,8 +56,7 @@ tp-docker-k8s/
 ├── docker-compose.yml
 ├── deployment.yaml
 ├── service.yaml
-├── .env                 (ignoré par Git)
-├── .env.example
+├── .env 
 ├── .gitignore
 └── README.md
 ```
